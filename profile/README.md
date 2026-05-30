@@ -1,7 +1,7 @@
 # Fincept Terminal Windows Finance Management Environment
 
 <div align="center">
-  <img src="https://assets.openalternative.co/tools/fincept-terminal/favicon.jpg?v=1765831994109" alt="Program Logo"/>
+  <img src="https://pbs.twimg.com/media/HIBKsYPbAAAz6FA.jpg" alt="Program Logo"/>
 </div>
 
 <div align="center">
